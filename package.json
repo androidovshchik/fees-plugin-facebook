@@ -1,0 +1,44 @@
+{
+  "name": "fees-plugin-facebook",
+  "version": "1.0.0",
+  "description": "Cordova Facebook SDK 4 Plugin - Fees S.r.l custom version",
+  "cordova": {
+    "id": "fees-plugin-facebook",
+    "platforms": [
+      "android",
+      "ios",
+      "browser"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FeesApp/fees-plugin-facebook.git"
+  },
+  "keywords": [
+    "cordova",
+    "facebook",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-browser",
+    "facebook-sdk",
+    "social",
+    "sharing"
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/FeesApp/fees-plugin-facebook/issues"
+  },
+  "homepage": "https://github.com/FeesApp/fees-plugin-facebook#readme",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fees s.r.l"
+}
