@@ -1,5 +1,5 @@
 {
-  "name": "fees-plugin-facebook",
+  "name": "@feesapp/fees-plugin-facebook",
   "version": "1.0.0",
   "description": "Cordova Facebook SDK 4 Plugin - Fees S.r.l custom version",
   "cordova": {
