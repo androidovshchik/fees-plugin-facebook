@@ -2,12 +2,12 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
         id="fees-plugin-facebook"
-        version="1.0.0">
+        version="1.0.2">
 
     <name>Facebook Connect</name>
 
     <description>
-      This is the official plugin for Facebook in Apache Cordova/PhoneGap!
+      This is custom version of plugin for Facebook in Apache Cordova/PhoneGap
 
       The Facebook plugin for Apache Cordova allows you to use the same JavaScript code in your
       Cordova application as you use in your web application.
